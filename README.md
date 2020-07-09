@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**d11r/d11r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Glad to have you here 🎉
+### Glad to have you here 🎉
 
 I'm Dragos, I do a lot of front end things, mostly in React.
 
