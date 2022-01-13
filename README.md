@@ -1,6 +1,1 @@
-### Glad to have you here 🎉
-
-I'm Dragos. I'm a student who does a little bit of research and development.
-
-Hope to see you around!
-
+I'm Dragos. I'm a front end engineer at Meta. I write about software development on [d11r.me](d11r.me)
